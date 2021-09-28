@@ -29,7 +29,7 @@ My experience with technologies include:
 
 Technologies I am learning:
 ∙ Docker
-∙ OOP Databses
+∙ OOP Databases
 ∙ Linux server deployment and managment
 ∙ more SQL
 ∙ Meteor
