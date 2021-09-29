@@ -36,3 +36,18 @@ Technologies I am learning:
 
 I am not a master of any of these technologies, just used them to build personal projects as part of learning them, I wish to  improve more outside of University
 through personal projects and contributions.
+
+I have a big project going on with a few other students from my Uni for a bug/issue tracker webapp as I know this is something almost all businesses can relate to.
+The project is being built with back-end first, as I aim to be a back-end developer, using the following technologies:
+∙ Java
+∙ Spring boot
+∙ Hibernate
+∙ Mysql
+∙ JUnit
+∙ Mockito
+∙ Docker
+∙ OOP database (IBM Db2)
+∙ Using an MVC design pattern
+Back end only ^ 
+
+Front-end is not decided yet but so far I plan on using meteor with react or Angular
