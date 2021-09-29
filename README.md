@@ -50,4 +50,4 @@ The project is being built with back-end first, as I aim to be a back-end develo
 ∙ Using an MVC design pattern
 Back end only ^ 
 
-Front-end is not decided yet but so far I plan on using meteor with react or Angular
+Front-end is not decided yet but so far I plan on using meteor with react or Angular. If I choose to not spend time on it, I will just use bootstrap.
